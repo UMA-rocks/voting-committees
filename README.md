@@ -4,7 +4,7 @@ A voting committee is a team that chooses the answers to disputes on behalf of U
 
 Each voting committee has its own private repository in the UMA.rocks GitHub organization. For every voting round, each committee pushes its answers to that repository. Our bot then reads the answers and submits them onchain.
 
-Learn more in [our manifesto](https://x.com/frigodor/status/2107790293558853682).
+Learn more in [this article](https://x.com/frigodor/status/2107790293558853682?s=20).
 
 <img width="1470" height="1004" alt="image" src="https://github.com/user-attachments/assets/eb3df1d2-3cdd-48a2-8ad6-5b2096915f54" />
 
